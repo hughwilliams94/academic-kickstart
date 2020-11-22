@@ -15,7 +15,7 @@
   title = "Facebook"
   icon_pack = "fab"
   icon = "facebook"
-  enable = true
+  enable = false
 
 [[buttons]]
   id = "email"
@@ -33,13 +33,14 @@
   icon = "linkedin-in"
   enable = true
 
+
 [[buttons]]
   id = "whatsapp"
   url = "https://web.whatsapp.com/send?text={title}%20{url}"
   title = "WhatsApp"
   icon_pack = "fab"
   icon = "whatsapp"
-  enable = true
+  enable = false
 
 [[buttons]]
   id = "weibo"
@@ -47,7 +48,7 @@
   title = "Weibo"
   icon_pack = "fab"
   icon = "weibo"
-  enable = true
+  enable = false
 
 [[buttons]]
   id = "reddit"
